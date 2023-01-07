@@ -2,24 +2,25 @@
     padding-bottom: 1em;
     border: rgb(46, 73, 223) 2px;
     margin: 5px;
-    background-image: url("https://images.unsplash.com/photo-1633241394397-927cc4ec0845?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRhcmslMjBraXRjaGVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     font-family: courier;
 }
-/* body {
-    background-color: teal;  
+body {
+    background-color: black;  
     margin: 20px;
     font-family: courier;
-} */
+    background-image: url("https://images.unsplash.com/photo-1633241394397-927cc4ec0845?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRhcmslMjBraXRjaGVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-position:right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 600px;
+    margin: 0 auto;
+}
 ul li {
     color: rgb(81, 167, 1);
     font-family: courier;
     font-size: 100%;
     display: inline;
-    padding: 20px;
-
+    border-color: turquoise;
   }
 img, h2 {
     color: rgb(221, 224, 20);
