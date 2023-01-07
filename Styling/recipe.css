@@ -14,3 +14,8 @@ img {
     height: 500px;
     width: auto;
 }
+* {
+    padding-bottom: 1em;
+    border:rgb(46, 73, 223) 2px;
+    margin: 5px;
+}

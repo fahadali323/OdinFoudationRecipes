@@ -1,3 +1,8 @@
+* {
+    padding-bottom: 1em;
+    border:rgb(46, 73, 223) 2px;
+    margin: 5px;
+}
 body {
     background-color: teal;  
     margin: 20px;
